@@ -1,0 +1,28 @@
+h1{
+    text-align: center;
+    color: rgb(20, 1, 1);
+    text-decoration: underline;
+}
+
+p{
+    font-weight: bolder;
+    height: 30px;
+}
+map{
+    display: flex;
+    justify-content: center;
+    margin-top: -100px;
+}
+#gmap_canvas{
+    width: 60%;
+    margin-left: 300px;
+}
+body{
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgyC8gReZ4RtauxTzgODM1Zi2qt8wx8ZGK1g&s');
+    
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    background-position:center ;
+    
+}
