@@ -18,11 +18,11 @@ map{
     margin-left: 300px;
 }
 body{
-    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgyC8gReZ4RtauxTzgODM1Zi2qt8wx8ZGK1g&s');
+    background-image: url('https://4kwallpapers.com/images/wallpapers/windows-11-landscape-scenery-sunrise-stock-day-light-1920x1080-5661.jpg');
     
     background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: 100% 100%;
-    background-position:center ;
+    
+    background-size: cover;
+    
     
 }
